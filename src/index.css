@@ -58,3 +58,6 @@ input {
   background-color: #c0392b;
 }
 
+.filter-input {
+  margin-top: 20px;
+}
